@@ -5,6 +5,7 @@ Vue 2.6 + Laravel 6 + Axios CRUD example app
 > See https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/
 > Inspiration from [https://github.com/herusdianto/laravel-vue-crud](https://github.com/herusdianto/laravel-vue-crud)
 
+<img src="demo.gif" width="416">
 
 ### Installation
 
